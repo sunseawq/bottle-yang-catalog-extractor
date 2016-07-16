@@ -13,4 +13,18 @@ Tool  Features include:
    o Support extracting YANG model catalog information based on URL link to RFC number
    
    o Support extracting YANG model catalog information based on URL link to draft name.
+   
+Required Software Support:
+   o Cherrypy: pythonic, object-oriented HTTP framework
+   https://github.com/cherrypy/cherrypy
+   
+   o Bottle: Python Web Framework
+     https://github.com/bottlepy/bottle
+     
+   o Xym: extracting YANG modules from files
+     https://github.com/xym-tool/xym
+   
+   o  Simplejson: JSON Encoder and Decoder for Python
+      https://github.com/simplejson/simplejson
+
 
