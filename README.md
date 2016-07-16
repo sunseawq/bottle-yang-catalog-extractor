@@ -5,8 +5,12 @@ This application is written using the Bottle framework using a combination of xy
 
 Tool  Features include:
    o Support extracting YANG model catalog information based on a individual draft uploaded
+   
    o Support extracting YANG model catalog information based on a YANG module file uploaded
+   
    o Support extracting YANG model catalog based on a set of YANG module files uploaded or a zip file which include a set   of YANG module files
+   
    o Support extracting YANG model catalog information based on URL link to RFC number
+   
    o Support extracting YANG model catalog information based on URL link to draft name.
 
